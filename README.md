@@ -4,13 +4,21 @@
 * Lightning [here](https://lunac25.github.io/lightning2/)
 * Lighting JS [here]()
 * Dice [here](https://lunac25.github.io/dice3/)
+* Chemot [here](https://lunac25.github.io/chemotaxis4/)
+
+
+
 
 ```Java
-void strike()
-{
- startX=0;
- startY=300;
- endX=300;
- endY=0;
-}
+ Bacteria [] yup;
+ void setup()   
+ {     
+   size(800,800);
+   background(0);
+   yup = new Bacteria[100];
+   for(int i=0; i<yup.length; i++){
+    yup[i]= new Bacteria(); 
+   }
+   
+ }
 ```
