@@ -12,15 +12,31 @@
 
 
 ```Java
- Bacteria [] yup;
- void setup()   
- {     
-   size(800,800);
-   background(0);
-   yup = new Bacteria[100];
-   for(int i=0; i<yup.length; i++){
-    yup[i]= new Bacteria(); 
-   }
-   
- }
+class OddballParticle implements Particle
+{
+  int r,g,b;
+  double x,y,speed,angle;
+  OddballParticle(){
+   x=(int)(Math.random()*300);
+    y=(int)(Math.random()*300);
+    speed = (Math.random()*10);
+    angle = (PI*Math.random()*2);
+   r = (int)(Math.random()*256);
+   g = (int)(Math.random()*256);
+   b = (int)(Math.random()*256);
+  }
+    void move(){
+    x+=speed*cos((float)angle);
+    y+=speed*sin((float)angle);
+    angle-=.05;
+    
+  }
+  void show(){
+    stroke(r,r,b);
+    fill(r,r,b);
+    ellipse((float)x,(float)y,10,10);
+  }
+  
+
+}
 ```
