@@ -30,7 +30,9 @@
 <br><br>
 <details>
   <summary>Other Questions</summary>
-<br>dope
+<br> 
+  #### Sources of Pride
+  <br>
 <details>
 
 
