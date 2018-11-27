@@ -1,7 +1,7 @@
 # csPortfolio
 
 <details>
-<summary>WebPage[here](https://lunac25.github.io/testWeb/doggos.html)</summary>
+<summary>WebPage [here](https://lunac25.github.io/testWeb/doggos.html) </summary>
 <br>
 
 <details>
