@@ -15,15 +15,15 @@
 ### * [Dice](https://lunac25.github.io/dice3/)
 <br>__About the project__
 <br>In this project, I learned to work with Math.random() in order to make the die appear as I wanted them to. 
----
+***
 ### * [Chemotaxis](https://lunac25.github.io/chemotaxis4/)
 <br>__About the project__
-<br>I enjoyed this project.  My 
----
+<br>I enjoyed this project.  My code did not redraw the background constantly like many others, so you are able to create images with the old particles.  The particles that show on the screen as blue are the movement, and yellow is the final location.  When you press your mouse, it redraws to remove the blue particles!
+***
 ### * [Starfield](https://lunac25.github.io/starfield5/)
 <br>__About the project__
-<br>This was probably my favorite project.  For this project, I used
----
+<br>This was probably my favorite project.  For this project, I used interfaces to make my stars.  My oddball particles are my favorite, because they are always drawn in a different location, with different colors, and a different radius for their circular movement.  The most challenging part was using pi to create the circular movement.
+***
 ### * [BU Presentation](https://lunac25.github.io/lightning2/college.html)
 <br>__About the project__
 <br>For this assignment, we researched the Computer Science program at a particular college. I chose Belmont University in Nashville, and spoke to Dr. Hooper in order to learn more about Comp Sci in college!
