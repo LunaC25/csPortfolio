@@ -6,7 +6,7 @@
 ---
 * [Lightning](https://lunac25.github.io/lightning2/)
 <br>__About the project__
-<br>I did not particularily enjoy this project.  It felt redundant to me, and I had trouble determining a creative spin on my project.
+<br>I did not particularly enjoy this project.  It felt redundant to me, and I had trouble determining a creative spin on my project.
 ---
 * [Lighting JS]()
 <br>__About the project__
