@@ -1,6 +1,6 @@
 # Cate Luna's Portfolio
 
-###* [Dog WebPage](https://lunac25.github.io/testWeb/doggos.html)
+* ###[Dog WebPage](https://lunac25.github.io/testWeb/doggos.html)
 <br>__About the project__
 <br>  This website was a great way to begin the year.  I learned about the use of html and how to format things on a website to make it look nice.
 ---
