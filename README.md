@@ -3,7 +3,9 @@
 * [Dog WebPage](https://lunac25.github.io/testWeb/doggos.html)
 <br>__About the project__
 <br>  This website was a great way to begin the year.  I learned about the use of html and how to format things on a website to make it look nice.
+---
 * [Lightning](https://lunac25.github.io/lightning2/)
+---
 * [Lighting JS]()
 <br>__About the project__
 <br>This was one of the most difficult projects.  Learning to convert everything into Javascript was challenging because of all of the small errors that arose.
