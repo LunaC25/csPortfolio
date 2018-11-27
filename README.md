@@ -28,12 +28,12 @@
 <br>__About the project__
 <br>For this assignment, we researched the Computer Science program at a particular college. I chose Belmont University in Nashville, and spoke to Dr. Hooper in order to learn more about Comp Sci in college!
 <br><br>
-#### Other Questions
+### Other Questions
 <br>__Sources of Pride__
 <br>Starfield and Chemotaxis were my best projects.  The majority of my creativity was shown in those two projects, as I messed around with my code with not redrawing the background, and worked more with Math.random() to create interesting objects.  As shown in my code snippet, I used Math.random to change each aspect of my oddball particle.  Another part of starfield was making the streak that followed the star.  
-<br><br>__A Coding Hurdle__
+<br>__A Coding Hurdle__
 <br>My biggest hurdle was the creativity.  I am mostly math and science based so when asked to do my own spin on these projects, I struggled.  They began rough but I am proud of the projects I did later on.  I like to follow a template, to ensure I do everything perfectly, but I was able to do my own thing with Chemotaxis and Starfield by experimenting more with my code.  
-<br><br>__The Code Below__
+<br>__The Code Below__
 <br>
 
 
