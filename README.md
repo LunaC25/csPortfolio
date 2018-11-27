@@ -1,7 +1,7 @@
 # Cate Luna's Portfolio
 
 * WebPage [here](https://lunac25.github.io/testWeb/doggos.html)
-  __About the project__
+  <br>__About the project__
       This website was a great way to begin the year.  I learned about the use of html and how to format things on a website         to make it look nice.
 * Lightning [here](https://lunac25.github.io/lightning2/)
 * Lighting JS [here]()
