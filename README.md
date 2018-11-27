@@ -22,7 +22,7 @@
 ***
 ### * [Starfield](https://lunac25.github.io/starfield5/)
 <br>__About the project__
-<br>This was probably my favorite project.  For this project, I used interfaces to make my stars.  My oddball particles are my favorite, because they are always drawn in a different location, with different colors, and a different radius for their circular movement.  The most challenging part was using pi to create the circular movement.
+<br>This was probably my favorite project.  For this project, I used interfaces to make my stars.  My oddball particles(code shown below) are my favorite, because they are always drawn in a different location, with different colors, and a different radius for their circular movement.  The most challenging part was using pi to create the circular movement.
 ***
 ### * [BU Presentation](https://lunac25.github.io/lightning2/college.html)
 <br>__About the project__
