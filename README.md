@@ -6,11 +6,11 @@
 * [Lightning](https://lunac25.github.io/lightning2/)
 * [Lighting JS]()
 <br>__About the project__
-<br>This was one of the most difficult projects.  Learning to convert everything into Javascript was challenging because of all of the small
-* Dice [here](https://lunac25.github.io/dice3/)
-* Chemot [here](https://lunac25.github.io/chemotaxis4/)
-* Starfield [here](https://lunac25.github.io/starfield5/)
-* BU Presentation [here](https://lunac25.github.io/lightning2/college.html)
+<br>This was one of the most difficult projects.  Learning to convert everything into Javascript was challenging because of all of the small errors that arose.
+* [Dice](https://lunac25.github.io/dice3/)
+* [Chemotaxis](https://lunac25.github.io/chemotaxis4/)
+* [Starfield](https://lunac25.github.io/starfield5/)
+* [BU Presentation](https://lunac25.github.io/lightning2/college.html)
 
 
 
