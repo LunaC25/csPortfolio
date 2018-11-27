@@ -1,4 +1,4 @@
-# csPortfolio
+# Cate Luna's Portfolio
 
 * WebPage [here](https://lunac25.github.io/testWeb/doggos.html)
 * Lightning [here](https://lunac25.github.io/lightning2/)
