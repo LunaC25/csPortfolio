@@ -29,11 +29,14 @@
 <br>For this assignment, we researched the Computer Science program at a particular college. I chose Belmont University in Nashville, and spoke to Dr. Hooper in order to learn more about Comp Sci in college!
 <br><br>
 <details>
-  <summary>sources of pride</summary>
+  <summary>Other Questions</summary>
 <br>dope
 <details>
 
 
+
+
+<br>
 ```Java
 class OddballParticle implements Particle
 {
