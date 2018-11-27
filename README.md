@@ -27,6 +27,7 @@
 ### * [BU Presentation](https://lunac25.github.io/lightning2/college.html)
 <br>__About the project__
 <br>For this assignment, we researched the Computer Science program at a particular college. I chose Belmont University in Nashville, and spoke to Dr. Hooper in order to learn more about Comp Sci in college!
+***
 <br><br>
 ### Other Questions
 <br>__Sources of Pride__
