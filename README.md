@@ -24,7 +24,7 @@
 <br>__About the project__
 <br>This was probably my favorite project.  For this project, I used interfaces to make my stars.  The most challenging part was using pi to create the circular movement.
 ***
-### * [BU Presentation](https://lunac25.github.io/lightning2/college.html)
+### * [BU Presentation](https://lunac25.github.io/collegepage/)
 <br>__About the project__
 <br>For this assignment, we researched the Computer Science program at a particular college. I chose Belmont University in Nashville, and spoke to Dr. Hooper in order to learn more about Comp Sci in college!
 ***
