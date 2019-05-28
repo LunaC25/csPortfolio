@@ -22,8 +22,11 @@
 ***
 ### * [PixelBud Presentation](https://lunac25.github.io/pixelbuds/)
 <br>__About the project__
-<br>  For this assignment, we researched an innovation that interested us.  My partner and I researched translating earbuds.
+<br>For this assignment, we researched an innovation that interested us.  My partner and I researched translating earbuds.
 ***
+### * [DiskLab]
+<br>__About the project__
+<br>In this assignment, we were asked to 
 
 ### Other Questions
 <br>__Sources of Pride__
