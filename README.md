@@ -4,14 +4,6 @@
 <br>__About the project__
 <br>  This website was a great way to begin the year.  I learned about the use of html and how to format things on a website to make it look nice.
 ***
-### * [Lightning](https://lunac25.github.io/lightning2/)
-<br>__About the project__
-<br>I did not particularly enjoy this project.  It felt redundant to me, and I had trouble determining a creative spin on my project.
-***
-### * [Lighting JS](https://lunac25.github.io/lightning2/javascriptLightning/index.html)
-<br>__About the project__
-<br>This was one of the most difficult projects.  Learning to convert everything into Javascript was challenging because of all of the small errors that arose.
-***
 ### * [Dice](https://lunac25.github.io/dice3/)
 <br>__About the project__
 <br>In this project, I learned to work with Math.random() in order to make the die appear as I wanted them to. 
