@@ -29,8 +29,8 @@
 <br>![alt text](https://github.com/LunaC25/csPortfolio/blob/gh-pages/Screen%20Shot%202019-05-27%20at%2011.26.59%20PM.png "Screen Shot 2019-05-27 at 11.26.59 PM.png")
 <br>![alt text](https://github.com/LunaC25/csPortfolio/blob/gh-pages/Screen%20Shot%202019-05-27%20at%2011.27.08%20PM.png "Screen Shot 2019-05-27 at 11.27.08 PM.png")
 <br>![alt text](https://github.com/LunaC25/csPortfolio/blob/gh-pages/Screen%20Shot%202019-05-27%20at%2011.27.18%20PM.png "Screen Shot 2019-05-27 at 11.27.18 PM.png")
-<br>In this assignment, we were asked to 
-
+<br>In this assignment, we were asked to take in certain data and use the ranking to stack what data is provided in an order.  I chose to use marvel characters and place the most powerful characters at the bottom of the screen.  Pictured above are three randomly generated groupings of stacks.
+***
 
 ### Other Questions
 <br>__Sources of Pride__
