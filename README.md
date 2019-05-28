@@ -26,7 +26,9 @@
 ***
 ### * [DiskLab]
 <br>__About the project__
+<br>![alt text](https://github.com/LunaC25/csPortfolio/"Screen Shot 2019-05-27 at 11.26.59 PM.png")
 <br>In this assignment, we were asked to 
+
 
 ### Other Questions
 <br>__Sources of Pride__
